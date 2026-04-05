@@ -180,7 +180,7 @@ ORDER BY churn_rate_pct DESC;
 
 Run all queries instantly — no installation required:
 
-**[▶ Open in DB Fiddle](https://www.db-fiddle.com/f/cDAyFBSbijnDFhxcb4sdm9/1)**
+**[▶ Open in DB Fiddle](https://www.db-fiddle.com/f/cDAyFBSbijnDFhxcb4sdm9/4)**
 
 ---
 
@@ -211,4 +211,4 @@ Telecom-Churn-Analysis/
 
 ---
 
-*Part of my Business Analyst portfolio — [LinkedIn](#) · [GitHub Profile](#)*
+*Part of my Business Analyst portfolio — [[LinkedIn](https://www.linkedin.com/in/ps-p-322700240/)](#) · [GitHub Profile](#)*
