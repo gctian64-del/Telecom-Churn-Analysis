@@ -2,7 +2,7 @@
 
 ![SQL](https://img.shields.io/badge/SQL-PostgreSQL-blue?style=flat-square)
 ![Domain](https://img.shields.io/badge/Domain-Telecommunications-teal?style=flat-square)
-![Type](https://img.shields.io/badge/Type-BA%20Portfolio%20Project-purple?style=flat-square)
+![Type](https://img.shields.io/badge/Type-BA%20Portfolio%20Project-purple?style=flat-square)(https://github.com/gctian64-del/Telecom-Churn-Analysis)
 
 ---
 
@@ -180,7 +180,7 @@ ORDER BY churn_rate_pct DESC;
 
 Run all queries instantly — no installation required:
 
-**[▶ Open in DB Fiddle](https://www.db-fiddle.com/f/cDAyFBSbijnDFhxcb4sdm9/4)**
+**[▶ Open in DB Fiddle](https://www.db-fiddle.com/f/cDAyFBSbijnDFhxcb4sdm9/5)**
 
 ---
 
