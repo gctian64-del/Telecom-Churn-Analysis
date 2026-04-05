@@ -1,6 +1,6 @@
 -- ============================================================
 -- TELECOM CHURN ANALYSIS
--- Author  : [Your Name]
+-- Author  : Pavithra Panneerselvam
 -- Role    : Business Analyst Portfolio Project
 -- Dataset : Telco Customer Churn (Kaggle / IBM Sample)
 -- Tool    : DB Fiddle (PostgreSQL)
