@@ -211,4 +211,4 @@ Telecom-Churn-Analysis/
 
 ---
 
-*Part of my Business Analyst portfolio — [[LinkedIn](https://www.linkedin.com/in/ps-p-322700240/)](#) · [GitHub Profile](#)*
+*Part of my Business Analyst portfolio — [[LinkedIn](https://www.linkedin.com/in/ps-p-322700240/)](#) · [GitHub Profile]https://github.com/gctian64-del/Telecom-Churn-Analysis(#)*
